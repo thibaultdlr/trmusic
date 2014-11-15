@@ -448,7 +448,7 @@ div.descr div.sc-player ol.sc-trackslist {
   width: 50%;
   top: 0;
   left: 21%;
-  font-size 0.5em;
+  font-size: 0.5em;
 }
 
 .descr .sc-track-duration {
@@ -479,7 +479,7 @@ div.descr div.sc-scrubber .sc-waveform-container {
   width: 50%;
   top: 0;
   left: 21%;
-  font-size 0.5em;
+  font-size: 0.5em;
 }
 
 .rel_audio .sc-track-duration {
